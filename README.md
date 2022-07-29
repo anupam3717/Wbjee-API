@@ -1,8 +1,11 @@
 # Wbjee-API
 
-This is a rest api which takes two parameters named rank and quota
-and returns json showing the colleges and available branches depending upon the input parameters.
-The API is ------>
+This is a rest api 
+
+It takes two parameters rank and quota.and return college name with branches in a json file
+
+
+
 https://kilf4q0gf6.execute-api.us-east-1.amazonaws.com/wbjee/wbjee?rank=<integer>&quota=<integer>
 
 #rank take the GMR rank
