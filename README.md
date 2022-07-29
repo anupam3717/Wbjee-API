@@ -2,7 +2,7 @@
 
 This is a rest api 
 
-It takes two parameters rank and quota.and return college name with branches in a json file
+It takes two parameters rank and quota in get request and return college name with branches in a json file
 
 
 
