@@ -7,17 +7,9 @@ https://kilf4q0gf6.execute-api.us-east-1.amazonaws.com/wbjee/wbjee?rank=<integer
 
 #rank take the GMR rank
 #The Quota takes 11 integers taking values from 0 to 10.
-  head=["general","pgeneral","obca","pobca","obcb","pobcb","sc","psc","st","pst","tfw"]
-  0 implies general quota
-  1 implies pwd general quota
-  2 implies pwd general quota
-  ...
-  ...
-  ...
-  9 implies pwd st quota
-  10 implies tfw quota
-  
-  
+["general","pgeneral","obca","pobca","obcb","pobcb","sc","psc","st","pst","tfw"]
+ like (0 for general),(1 for pwd general)....(10 for tfw)
+
   example:
   rank=469
   quota=0 means grneral
@@ -26,7 +18,7 @@ https://kilf4q0gf6.execute-api.us-east-1.amazonaws.com/wbjee/wbjee?rank=<integer
   
   
 
-output:
+output:########
   {
     "Cooch Behar Government Engineering College_Cooch Behar": [
         "Civil Engineering",
