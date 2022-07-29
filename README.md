@@ -11,7 +11,8 @@ https://kilf4q0gf6.execute-api.us-east-1.amazonaws.com/wbjee/wbjee?rank=<integer
 
 
 ["general","pgeneral","obca","pobca","obcb","pobcb","sc","psc","st","pst","tfw"]
- like (0 for general),(1 for pwd general)....(10 for tfw)
+ 
+like (0 for general),(1 for pwd general)....(10 for tfw)
 
   example:
   rank=469
