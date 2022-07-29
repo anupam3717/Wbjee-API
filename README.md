@@ -6,7 +6,10 @@ The API is ------>
 https://kilf4q0gf6.execute-api.us-east-1.amazonaws.com/wbjee/wbjee?rank=<integer>&quota=<integer>
 
 #rank take the GMR rank
-#The Quota takes 11 integers taking values from 0 to 10.
+
+#The Quota takes integers values from 0 to 10.
+
+
 ["general","pgeneral","obca","pobca","obcb","pobcb","sc","psc","st","pst","tfw"]
  like (0 for general),(1 for pwd general)....(10 for tfw)
 
